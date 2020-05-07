@@ -9,6 +9,7 @@
       "3" : "Mood-c.png",
       "4" : "Mood-d.png",
       "5" : "Mood-e.png",
+      "is_text" : false
        },
     "Your go to outfit?": {
       "x" : 0,
@@ -17,6 +18,7 @@
       "2" : "Outfit-sweatshirt.png",
       "3" : "Outfit-zoom.png",
       "4" : "Outfit-dressup.png",
+      "is_text" : false
     },
     "How offended do you feel when Netflix asks you \"Are you still watching??": {
       "x" : 0,
@@ -25,6 +27,7 @@
       "2" : "Netflix-yes.png",
       "3" : "Netflix-read.png",
       "4" : "Netflix-no.png",
+      "is_text" : false
    },
     "Who is your quarantine crew?": {
       "x" : 0,
@@ -33,12 +36,14 @@
       "2" : "Crew-family.png",
       "3" : "Crew-roomate.png",
       "4" : "Crew-dog.png",
+      "is_text" : false
        },
     "Do you find yourself on the phone a lot more recently?": {
       "x" : 0,
       "y" : 0,
       "yes" : "Phone-no.png",
       "no" : "Phone-yes.png",
+      "is_text" : false
          },
     "How often do you eat?": {
       "x" : 0,
@@ -46,6 +51,7 @@
       "1" : "Eat-only",
       "2" : "Eat-bored.png",
       "3" : "Eat-15.png",
+      "is_text" : false
       },
        "If you could be quarantined with any musician, who would it be?": {
       "x" : 0,
@@ -60,6 +66,7 @@
       "8" : "Singer-conan.png",
       "9" : "Singer-matt.png",
       "10" : "Singer-doja.png",
+      "is_text" : false
        },
        "If you had the chance to go outside, where would you go?": {
       "x" : 0,
@@ -68,8 +75,9 @@
       "2" : "Outside-walk.png",
       "3" : "Outside-run.png",
       "4" : "Outside-inside.png",
+      "is_text" : false
       },
-        },
+  },
 "data" : [
   {
     "Name": "Haley",

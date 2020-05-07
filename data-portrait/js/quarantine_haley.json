@@ -1,41 +1,40 @@
 {
-"key" :
-  { 
+"key" : {
     "How do you feel about quarantine?": {
       "x" : 0,
       "y" : 0,
-      "1" : "Mood-a.png",
-      "2" : "Mood-b.png",
-      "3" : "Mood-c.png",
-      "4" : "Mood-d.png",
-      "5" : "Mood-e.png",
+      "I just want things to return to normal" : "Mood-a.png",
+      "I’ve been better" : "Mood-b.png",
+      "I’m bored in the house and I’m in the house bored" : "Mood-c.png",
+      "I’ve learned a new skill" : "Mood-d.png",
+      "Possibly the best thing to happen" : "Mood-e.png",
       "is_text" : false
        },
     "Your go to outfit?": {
       "x" : 0,
       "y" : 0,
-      "1" : "Outfit-pjs.png",
-      "2" : "Outfit-sweatshirt.png",
-      "3" : "Outfit-zoom.png",
-      "4" : "Outfit-dressup.png",
+      " My day pajamas and my night pajamas" : "Outfit-pjs.png",
+      "A pair of comfy sweats and sweatshirt" : "Outfit-sweatshirt.png",
+      "Throw on that “Zoom” shirt for class/work" : "Outfit-zoom.png",
+      "Dress up like I’m leaving the house" : "Outfit-dressup.png",
       "is_text" : false
     },
     "How offended do you feel when Netflix asks you \"Are you still watching??": {
       "x" : 0,
       "y" : 0,
-     "1" : "Netflix-100",
-      "2" : "Netflix-yes.png",
-      "3" : "Netflix-read.png",
-      "4" : "Netflix-no.png",
+     "I don’t need this kind of judgement in this time of uncertainty" : "Netflix-100",
+      "Yes, just one more episode" : "Netflix-yes.png",
+      "I don’t really watch TV/Movies, I prefer to read" : "Netflix-read.png",
+      "No I need to finish my work" : "Netflix-no.png",
       "is_text" : false
    },
     "Who is your quarantine crew?": {
       "x" : 0,
-      "y" : 30,
-      "1" : "Crew-me",
-      "2" : "Crew-family.png",
-      "3" : "Crew-roomate.png",
-      "4" : "Crew-dog.png",
+      "y" : 0,
+      "My roomates" : "Crew-roomate.png",
+      "My family" : "Crew-me",
+      "Me, Myself, and I" : "Crew-family.png",
+      "My fluffy companion" : "Crew-dog.png",
       "is_text" : false
        },
     "Do you find yourself on the phone a lot more recently?": {
@@ -48,33 +47,33 @@
     "How often do you eat?": {
       "x" : 0,
       "y" : 0,
-      "1" : "Eat-only",
-      "2" : "Eat-bored.png",
+      "Only when I’m hungry " : "Eat-only",
+      "When I’m bored, and I’m bored pretty often" : "Eat-bored.png",
       "3" : "Eat-15.png",
-      "is_text" : false
+      "That quarantine 15 is real mant" : false
       },
        "If you could be quarantined with any musician, who would it be?": {
       "x" : 0,
       "y" : 0,
-      "1" : "Singer-taylor.png",
-      "2" : "Singer-lilb.png",
-      "3" : "Singer-Brett.png",
-      "4" : "Singer-harry.png",
-      "5" : "Singer-maverick.png",
-      "6" : "Singer-Bob.png",
-      "7" : "Singer-hozier.png",
-      "8" : "Singer-conan.png",
-      "9" : "Singer-matt.png",
-      "10" : "Singer-doja.png",
+      "Taylor Swift" : "Singer-taylor.png",
+      "Lil B the Based God" : "Singer-lilb.png",
+      "Brett Young" : "Singer-Brett.png",
+      "Harry Styles" : "Singer-harry.png",
+      "Maverick city" : "Singer-maverick.png",
+      "Bob Dylan" : "Singer-Bob.png",
+      "Hozier" : "Singer-hozier.png",
+      "Conan Gray" : "Singer-conan.png",
+      "Matty Healy from The 1975" : "Singer-matt.png",
+      "Doja Cat" : "Singer-doja.png",
       "is_text" : false
        },
        "If you had the chance to go outside, where would you go?": {
       "x" : 0,
       "y" : 0,
-      "1" : "Outside-backyard.png",
-      "2" : "Outside-walk.png",
-      "3" : "Outside-run.png",
-      "4" : "Outside-inside.png",
+      "Backyad/Porch" : "Outside-backyard.png",
+      "Take a walk with my dog" : "Outside-walk.png",
+      "Go for a run around the neighborhood" : "Outside-run.png",
+      "I'd rather stay inside" : "Outside-inside.png",
       "is_text" : false
       },
   },
@@ -89,7 +88,6 @@
     "How often do you eat?": "When I'm bored, and I'm bored a lot",
     "If you could be quarantined with any musician, who would it be?": "Doja Cat",
     "If you had the chance to go outside, where would you go?": "I'd rather stay inside..",
-    "": ""
   },
   {
     "Name": "Julia",
@@ -101,7 +99,6 @@
     "How often do you eat?": "That quarantine 15 is real man",
     "If you could be quarantined with any musician, who would it be?": "Matty Healy from The 1975",
     "If you had the chance to go outside, where would you go?": "Take a walk with my dog",
-    "": ""
   },
   {
     "Name": "Rebecca",
@@ -113,7 +110,6 @@
     "How often do you eat?": "Only when I'm hungry",
     "If you could be quarantined with any musician, who would it be?": "Hozier",
     "If you had the chance to go outside, where would you go?": "Take a walk with my dog",
-    "": ""
   },
   {
     "Name": "Dana",
@@ -125,7 +121,6 @@
     "How often do you eat?": "That quarantine 15 is real man",
     "If you could be quarantined with any musician, who would it be?": "Maverick city",
     "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood",
-    "": ""
   },
   {
     "Name": "Micah",
@@ -137,7 +132,6 @@
     "How often do you eat?": "That quarantine 15 is real man",
     "If you could be quarantined with any musician, who would it be?": "Hozier",
     "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood",
-    "": ""
   },
   {
     "Name": "Breanna",
@@ -149,7 +143,6 @@
     "How often do you eat?": "That quarantine 15 is real man",
     "If you could be quarantined with any musician, who would it be?": "Conan Gray",
     "If you had the chance to go outside, where would you go?": "Take a walk with my dog",
-    "": ""
   },
   {
     "Name": "Amelia",
@@ -161,7 +154,6 @@
     "How often do you eat?": "When I'm bored, and I'm bored a lot",
     "If you could be quarantined with any musician, who would it be?": "harry styles",
     "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood",
-    "": ""
   },
   {
     "Name": "Taylor",
@@ -173,7 +165,6 @@
     "How often do you eat?": "When I'm bored, and I'm bored a lot",
     "If you could be quarantined with any musician, who would it be?": "Brett Young",
     "If you had the chance to go outside, where would you go?": "Take a walk with my dog",
-    "": ""
   },
   {
     "Name": "Kade",
@@ -185,7 +176,6 @@
     "How often do you eat?": "Only when I'm hungry",
     "If you could be quarantined with any musician, who would it be?": "Lil B the Based God",
     "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood",
-    "": ""
   },
   {
     "Name": "Grace",
@@ -197,7 +187,6 @@
     "How often do you eat?": "only when I'm hungry",
     "If you could be quarantined with any musician, who would it be?": "Taylor Swift",
     "If you had the chance to go outside, where would you go?": "I'd rather stay inside..",
-    "": ""
   },
   {
     "Name": "Max",
@@ -209,7 +198,6 @@
     "How often do you eat?": "Only when I'm hungry",
     "If you could be quarantined with any musician, who would it be?": "Bob Dylan",
     "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood",
-    "": ""
   }
 ]
 }

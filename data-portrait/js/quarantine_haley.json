@@ -1,27 +1,27 @@
 {
 "key" : {
     "How do you feel about quarantine?": {
-      "x" : 0,
-      "y" : 0,
-      "I just want things to return to normal" : "Mood-a.png",
-      "I’ve been better" : "Mood-b.png",
-      "I’m bored in the house and I’m in the house bored" : "Mood-c.png",
-      "I’ve learned a new skill" : "Mood-d.png",
-      "Possibly the best thing to happen" : "Mood-e.png",
-      "is_text" : false
+      "x":0,
+      "y":0,
+      "I just want things to return to normal": "Mood-a.png",
+      "I’ve been better": "Mood-b.png",
+      "I’m bored in the house and I’m in the house bored": "Mood-c.png",
+      "I’ve learned a new skill": "Mood-d.png",
+      "Possibly the best thing to happen": "Mood-e.png",
+      "is_text": false
        },
     "Your go to outfit?": {
-      "x" : 0,
-      "y" : 0,
-      " My day pajamas and my night pajamas" : "Outfit-pjs.png",
-      "A pair of comfy sweats and sweatshirt" : "Outfit-sweatshirt.png",
-      "Throw on that “Zoom” shirt for class/work" : "Outfit-zoom.png",
-      "Dress up like I’m leaving the house" : "Outfit-dressup.png",
+      "x": 0,
+      "y": 0,
+      " My day pajamas and my night pajamas": "Outfit-pjs.png",
+      "A pair of comfy sweats and sweatshirt": "Outfit-sweatshirt.png",
+      "Throw on that “Zoom” shirt for class/work": "Outfit-zoom.png",
+      "Dress up like I’m leaving the house": "Outfit-dressup.png",
       "is_text" : false
     },
     "How offended do you feel when Netflix asks you \"Are you still watching??": {
-      "x" : 0,
-      "y" : 0,
+      "x": 0,
+      "y": 0,
      "I don’t need this kind of judgement in this time of uncertainty" : "Netflix-100",
       "Yes, just one more episode" : "Netflix-yes.png",
       "I don’t really watch TV/Movies, I prefer to read" : "Netflix-read.png",
@@ -75,6 +75,7 @@
       "Go for a run around the neighborhood" : "Outside-run.png",
       "I'd rather stay inside" : "Outside-inside.png",
       "is_text" : false
+      }
       },
 "data" : [
   {
@@ -198,5 +199,5 @@
     "If you could be quarantined with any musician, who would it be?": "Bob Dylan",
     "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood",
   }
-]
+ ]
 }

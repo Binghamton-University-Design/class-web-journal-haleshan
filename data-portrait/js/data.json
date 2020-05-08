@@ -1,0 +1,183 @@
+{
+"key" : {
+    "How do you feel about quarantine?": {
+      "x":0,
+      "y":0,
+      "I just want things to return to normal": "Mood-a.png",
+      "I've been better": "Mood-b.png",
+      "I'm bored in the house and I'm in the house bored": "Mood-c.png",
+      "I've learned a new skill": "Mood-d.png",
+      "Possibly the best thing to happen right now": "Mood-e.png",
+      "is_text": false
+       },
+    "Your go to outfit?": {
+      "x": 0,
+      "y": 0,
+      "My day pajamas and my night pajamas": "Outfit-pjs.png",
+      "A pair of comfy sweatpants and sweatshirt": "Outfit-sweatshirt.png",
+      "I'll throw on that \"Zoom\" shirt for class/work": "Outfit-zoom.png",
+      "Dress up like I'm leaving the house": "Outfit-dressup.png",
+      "is_text" : false
+    },
+    "How offended do you feel when Netflix asks you \"Are you still watching?": {
+      "x": 0,
+      "y": 0,
+     "I don't need this kind of judgement in this time of uncertainity" : "Netflix-100.png",
+      "Just ONE more episode" : "Netflix-yes.png",
+      "I don't really watch TV/Movies, I prefer to read" : "Netflix-read.png",
+      "No I need to finish my work" : "Netflix-no.png",
+      "is_text" : false
+   },
+    "Who is your quarantine crew?": {
+      "x" : 0,
+      "y" : 0,
+      "My roomates" : "Crew-roomate.png",
+      "My family" : "Crew-family.png",
+      "Me, Myself, and I" : "Crew-me.png",
+      "My fluffy companion" : "Crew-dog.png",
+      "is_text" : false
+       },
+    "Do you find yourself on the phone a lot more recently?": {
+      "x" : 0,
+      "y" : 0,
+      "yes" : "Phone-no.png",
+      "no" : "Phone-yes.png",
+      "is_text" : false
+         },
+    "How often do you eat?": {
+      "x" : 0,
+      "y" : 0,
+      "Only when I'm hungry" : "Eat-only.png",
+      "When I'm bored, and I'm bored a lot" : "Eat-bored.png",
+      "That quarantine 15 is real man" : "Eat-15.png",
+      "is_text" : false
+      },
+       "If you could be quarantined with any musician, who would it be?": {
+      "x" : 0,
+      "y" : 0,
+      "Taylor Swift" : "Singer-taylor.png",
+      "Lil B the Based God" : "Singer-lilb.png",
+      "Brett Young" : "Singer-Brett.png",
+      "harry styles" : "Singer-harry.png",
+      "Maverick city" : "Singer-maverick.png",
+      "Bob Dylan" : "Singer-Bob.png",
+      "Hozier" : "Singer-hozier.png",
+      "Conan Gray" : "Singer-conan.png",
+      "Matty Healy from The 1975" : "Singer-matt.png",
+      "Doja Cat" : "Singer-doja.png",
+      "is_text" : false
+       },
+       "If you had the chance to go outside, where would you go?": {
+      "x" : 0,
+      "y" : 0,
+      "Backyad/Porch" : "Outside-backyard.png",
+      "Take a walk with my dog" : "Outside-walk.png",
+      "Go for a run around the neighborhood" : "Outside-run.png",
+      "I'd rather stay inside" : "Outside-inside.png",
+      "is_text" : false
+      }
+      },
+"data" : [
+  {
+    "How do you feel about quarantine?": "I've learned a new skill",
+    "Your go to outfit?": "My day pajamas and my night pajamas",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "Just ONE more episode",
+    "Who is your quarantine crew?": "Me, Myself, and I",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "When I'm bored, and I'm bored a lot",
+    "If you could be quarantined with any musician, who would it be?": "Doja Cat",
+    "If you had the chance to go outside, where would you go?": "I'd rather stay inside"
+  },
+  {
+    "How do you feel about quarantine?": "I just want things to return to normal",
+    "Your go to outfit?": "I'll throw on that \"Zoom\" shirt for class/work",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "No I need to finish my work",
+    "Who is your quarantine crew?": "My family",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "That quarantine 15 is real man",
+    "If you could be quarantined with any musician, who would it be?": "Matty Healy from The 1975",
+    "If you had the chance to go outside, where would you go?": "Take a walk with my dog"
+  },
+  {
+    "How do you feel about quarantine?": "I've learned a new skill",
+    "Your go to outfit?": "Dress up like I'm leaving the house",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "No I need to finish my work",
+    "Who is your quarantine crew?": "My family",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "Only when I'm hungry",
+    "If you could be quarantined with any musician, who would it be?": "Hozier",
+    "If you had the chance to go outside, where would you go?": "Take a walk with my dog"
+  },
+  {
+    "How do you feel about quarantine?": "Possibly the best thing to happen right now",
+    "Your go to outfit?": "My day pajamas and my night pajamas",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "I don't really watch TV/Movies, I prefer to read",
+    "Who is your quarantine crew?": "My family",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "That quarantine 15 is real man",
+    "If you could be quarantined with any musician, who would it be?": "Maverick city",
+    "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood"
+  },
+  {
+    "How do you feel about quarantine?": "I've been better",
+    "Your go to outfit?": "I'll throw on that \"Zoom\" shirt for class/work",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "Just ONE more episode",
+    "Who is your quarantine crew?": "My family",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "That quarantine 15 is real man",
+    "If you could be quarantined with any musician, who would it be?": "Hozier",
+    "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood"
+  },
+  {
+    "How do you feel about quarantine?": "I just want things to return to normal",
+    "Your go to outfit?": "My day pajamas and my night pajamas",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "Just ONE more episode",
+    "Who is your quarantine crew?": "My family",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "That quarantine 15 is real man",
+    "If you could be quarantined with any musician, who would it be?": "Conan Gray",
+    "If you had the chance to go outside, where would you go?": "Take a walk with my dog"
+  },
+  {
+    "How do you feel about quarantine?": "I just want things to return to normal",
+    "Your go to outfit?": "A pair of comfy sweatpants and sweatshirt",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "I don't need this kind of judgement in this time of uncertainity",
+    "Who is your quarantine crew?": "My fluffy companion",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "When I'm bored, and I'm bored a lot",
+    "If you could be quarantined with any musician, who would it be?": "Brett Young",
+    "If you had the chance to go outside, where would you go?": "Take a walk with my dog"
+  },
+  {
+    "How do you feel about quarantine?": "Possibly the best thing to happen right now",
+    "Your go to outfit?": "My day pajamas and my night pajamas",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "No I need to finish my work",
+    "Who is your quarantine crew?": "My roomates",
+    "Do you find yourself on the phone a lot more recently?": "no",
+    "How often do you eat?": "Only when I'm hungry",
+    "If you could be quarantined with any musician, who would it be?": "Lil B the Based God",
+    "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood"
+  },
+  {
+    "How do you feel about quarantine?": "I'm bored in the house and I'm in the house bored",
+    "Your go to outfit?": "I'll throw on that \"Zoom\" shirt for class/work",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "I don't need this kind of judgement in this time of uncertainity",
+    "Who is your quarantine crew?": "Me, Myself, and I",
+    "Do you find yourself on the phone a lot more recently?": "no",
+    "How often do you eat?": "Only when I'm hungry",
+    "If you could be quarantined with any musician, who would it be?": "Taylor Swift",
+    "If you had the chance to go outside, where would you go?": "I'd rather stay inside"
+  },
+  {
+    "How do you feel about quarantine?": "I just want things to return to normal",
+    "Your go to outfit?": "My day pajamas and my night pajamas",
+    "How offended do you feel when Netflix asks you \"Are you still watching?": "I don't really watch TV/Movies, I prefer to read",
+    "Who is your quarantine crew?": "My family",
+    "Do you find yourself on the phone a lot more recently?": "yes",
+    "How often do you eat?": "Only when I'm hungry",
+    "If you could be quarantined with any musician, who would it be?": "Bob Dylan",
+    "If you had the chance to go outside, where would you go?": "Go for a run around the neighborhood"
+  }
+
+ ]
+}

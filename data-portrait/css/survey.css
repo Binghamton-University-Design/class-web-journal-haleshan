@@ -2,7 +2,7 @@
 
 /* vars */
 :root {
-  --background-color: #000000;
+  --background-color: #f5ded4;
   --link-color: #E2E3E3;
   --alt-link-color: #CEDC00;
   --body-color: #111;
@@ -156,7 +156,7 @@ img {
 }
 
 .dotstyle li.current a, .dotstyle li a:hover {
-  background-color: #fff;
+  background-color: #f5ded4;
 }
 
 /* for variable type sizing */

@@ -40,8 +40,8 @@
     "Do you find yourself on the phone a lot more recently?": {
       "x" : 0,
       "y" : 0,
-      "yes" : "Phone-no.png",
-      "no" : "Phone-yes.png",
+      "yes" : "Phone-yes.png",
+      "no" : "Phone-no.png",
       "is_text" : false
          },
     "How often do you eat?": {

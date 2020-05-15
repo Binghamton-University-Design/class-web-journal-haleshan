@@ -60,7 +60,7 @@ body {
     overflow: hidden;
     text-align: center;
     font-size: .75em;
-    background-color: var(--lightest-grey);
+    background-color: #000000;
 }
 
 
@@ -83,7 +83,7 @@ h4 {
 
 #masthead h4 {
     margin: 0;
-    font-weight: 300;
+    font-weight: 200;
 }
 
 #masthead h4 a {

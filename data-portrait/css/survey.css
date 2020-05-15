@@ -20,7 +20,7 @@ body {
     background-color: var(--background-color);
     text-align: left;
     margin: 0;
-    color: var(--body-color);
+    color: #3E5379;
     font-family: Helvetica, sans-serif; 
     font-size: 12px;
     font-weight: 400;

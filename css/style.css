@@ -45,7 +45,7 @@ body {
 }
 
 #masthead {
-    background-color: var(--body-color);
+    background-color: #F6F6F6;
     padding: 1em;
     text-align: right;
 }
